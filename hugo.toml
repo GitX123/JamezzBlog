@@ -1,0 +1,4 @@
+hubaseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Jamezz Blog'
+theme = 'ananke'
